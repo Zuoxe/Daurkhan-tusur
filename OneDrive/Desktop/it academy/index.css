@@ -1,0 +1,44 @@
+.body{
+    font-family: "Open Sans","sans-serif";
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.375;
+}
+
+
+.page_headder{
+
+}
+
+.page_header_container{
+    box-sizing: border-box;
+    padding-left: 40px;
+    padding-right: 40px;
+    max-width: 1414px;
+    width: 100%;
+}
+.page_headder_nav
+{
+    display: inline-block;
+}
+
+.page_header_nav_link{
+    margin: 0 25px;
+    font-weight: 600;
+    color: #000;
+    font-size: 18px;
+    line-height: 25px;
+    text-decoration: none;
+
+}
+.button_page_header_user-button{
+    padding: 15px 40px;
+    text-decoration: none;
+    background-color: transparent;
+    color:#1f1e1e;
+    border: 1px solid #1f1e1e;
+    font-size: 16px;
+    line-height: normal;
+    font-weight: 600;
+ }
